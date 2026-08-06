@@ -1,0 +1,5 @@
+Halo, ini repository Git pertamaku.
+
+Belajar Git ternyata seru.
+
+Baris ketiga.
