@@ -4,12 +4,11 @@ Belajar Git ternyata seru.
 
 Baris ketiga.
 
-<<<<<<< HEAD
 Sekarang aku belajar Git Branch Profile.
-=======
+
 Hari ini belajar git diff.
 
 Sekarang aku berada di branch feature-login.
 
 Hari ini belajar Git Merge.
->>>>>>> master
+
