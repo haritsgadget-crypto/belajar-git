@@ -3,3 +3,5 @@ Halo, ini repository Git pertamaku.
 Belajar Git ternyata seru.
 
 Baris ketiga.
+
+Sekarang aku belajar Git Branch Profile.
