@@ -11,4 +11,3 @@ Hari ini belajar git diff.
 Sekarang aku berada di branch feature-login.
 
 Hari ini belajar Git Merge.
-
