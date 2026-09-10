@@ -13,3 +13,5 @@ Sekarang aku berada di branch feature-login.
 Hari ini belajar Git Merge.
 
 Commit Reset Pertama.
+
+Saya belajar Git Fetch dari GitHub.
