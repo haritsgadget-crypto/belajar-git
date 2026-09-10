@@ -17,3 +17,4 @@ Commit Reset Pertama.
 Saya belajar Git Fetch dari GitHub.
 
 Commit dari LOCAL.
+Commit dari GITHUB.
