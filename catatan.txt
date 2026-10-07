@@ -12,6 +12,12 @@ Sekarang aku berada di branch feature-login.
 
 Hari ini belajar Git Merge.
 
+Sekarang aku belajar Git Merge dari hasil skenario C.
+
+Perubahan dari master.
+
+Saya sedang belajar Pull Request GitHub.
+
 Commit Reset Pertama.
 
 Saya belajar Git Fetch dari GitHub.
