@@ -17,3 +17,9 @@ Sekarang aku belajar Git Merge dari hasil skenario C.
 Perubahan dari master.
 
 Saya sedang belajar Pull Request GitHub.
+
+Commit Reset Pertama.
+
+Saya belajar Git Fetch dari GitHub.
+
+Commit dari GITHUB.
